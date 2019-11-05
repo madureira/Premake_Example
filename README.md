@@ -1,6 +1,6 @@
 # Premake_Example
 
-This project is just an example of how to set up a C++ build using Premake.
+This project is just an example of how to set up a C++ build using [Premake](https://premake.github.io/).
 
 ## Linux
 
